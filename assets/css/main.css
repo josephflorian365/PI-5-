@@ -946,10 +946,10 @@
 				width: calc(100% + 6em);
 				height: 1px;
 				z-index: -1;
-				background: #c8cccf;
+				background: #2efcc8;
 			}
 			#main .portada{
-				width: 100%;
+				width: 50%;
 				height: 400px;
 				background-image: url(..\PI-5-\PI(5)\images);
 				background-size: 200%;
